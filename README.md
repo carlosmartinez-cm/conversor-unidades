@@ -27,6 +27,7 @@ gcc main.c -o conversor_unidades
 ```bash
 ./conversor_unidades
 ```
+<img width="332" height="487" alt="image" src="https://github.com/user-attachments/assets/9ec29472-d941-458e-bd29-531a9be19cfb" />
 
 En Windows:
 ```bash
